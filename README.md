@@ -1,13 +1,12 @@
-# Dependencies
+# NextSimpleStarter
 
-+ nodejs ^12.x.x
-+ npm ^6.x.x
+### Getting Started
 
-# Run On Development
-  
-  ```shell
-  $ git clone https://github.com/narek1993x/NextSimpleStarter
-  $ cd NextSimpleStarter
-  $ npm install
-  $ npm start
-  ```
+Checkout this repo, install dependencies, then start the gulp process with the following:
+
+```
+> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
+> cd NextSimpleStarter
+> npm install
+> npm start
+```

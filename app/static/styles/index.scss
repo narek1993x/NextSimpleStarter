@@ -1,0 +1,11 @@
+// Resets
+@import "resets/normalize.scss";
+@import "resets/reset.local.scss";
+@import "resets/typography.scss";
+
+
+// Partials
+@import "partials/variables.scss";
+@import "partials/mixins.scss";
+@import "partials/main.scss";
+@import "partials/defaults.scss";

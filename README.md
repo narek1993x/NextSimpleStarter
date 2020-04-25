@@ -6,16 +6,8 @@
 # Run On Development
   
   ```shell
-  $ git clone https://github.com/winesports/affiliates
-  $ cd affiliates
+  $ git clone https://github.com/narek1993x/NextSimpleStarter
+  $ cd NextSimpleStarter
   $ npm install
   $ npm start
-  ```
-# Run On Production
-  
-  ```shell
-  $ git clone https://github.com/winesports/affiliates
-  $ cd affiliates
-  $ npm install
-  $ npm run build
   ```

@@ -8,5 +8,5 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
 > cd NextSimpleStarter
 > npm install
-> npm start
+> npm run dev
 ```
